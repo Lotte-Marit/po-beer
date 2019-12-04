@@ -90,3 +90,9 @@ h2 {
       .page-nav ul li a:visited {
         color: #6f717d;
       }
+h1:after 
+{
+	content:' ';
+	display:block;
+	border:2px solid grey;
+}
