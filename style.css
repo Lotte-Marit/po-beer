@@ -100,3 +100,8 @@ h1:after
 	display:block;
 	border:2px solid grey;
 }
+
+img{
+	float: right;
+	margin: 5px;
+}
